@@ -8,5 +8,6 @@ We test various models for predicting student scores based on parameters given.
 * Build ML model to predict score of students.
 
 ## Tools & Technologies
-* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, sklearn)
 * Jupyter Notebook for interactive exploration
+* Machine learning models
